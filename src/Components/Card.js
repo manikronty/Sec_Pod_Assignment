@@ -7,7 +7,7 @@ const Card = ({ title, image, children }) => {
         <div className="mb-4">
           <img
             src={image}
-            alt=""
+            alt="sam94"
             className="w-full h-48 object-cover rounded-lg"
           />
         </div>
