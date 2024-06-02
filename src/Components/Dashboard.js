@@ -2,6 +2,7 @@ import React from 'react';
 import Card from './Card';
 
 
+
 const Dashboard = () => {
   const integrationAnalyticImage = "https://framerusercontent.com/images/X9sfUQgd9LFj1y450O2lzNBlK0.png";
 
