@@ -1,5 +1,4 @@
 import React from 'react';
-
 const BlogCard = ({ author, title, date, role, imageUrl, avatarUrl, link }) => {
   return (
     <a 
